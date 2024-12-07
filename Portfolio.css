@@ -213,7 +213,7 @@
 .details{
     display: flex;
     background-color: rgb(41, 36, 36);
-    height: 320px;    
+    height: 100%;    
     width: 100%;
     overflow: auto;
     flex-wrap: wrap;
